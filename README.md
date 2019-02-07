@@ -8,9 +8,9 @@ BUILT WITH
 - JavaScript
 
 DEVELOPER
-PJ Mantoss
+- PJ Mantoss
 
 ACKNOWLEDGEMENTS
-A big thank you to Microverse for the training and #JavaScript30 for the free video tutorial. You two are awesome.
-Thank you to Google, my faithful study companion.
+- A big thank you to Microverse for the training and #JavaScript30 for the free video tutorial. You two are awesome.
+- Thank you to Google, my faithful study companion.
 
